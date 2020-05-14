@@ -1,0 +1,44 @@
+@import './variables';
+
+.scoreboard-wrapper {
+  font-family: $main-font;
+  font-weight: 100;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: auto;
+  min-height: 15vh;
+  background: $dark-grey;
+  align-items: center;
+}
+
+.scoreboard-wrapper h2 {
+  font-weight: lighter;
+  font-size: 1em;
+}
+
+.score-card {
+  height: 80%;
+  width: 150px;
+  background: rgba(106, 128, 146, 0.50);
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 10px 0 10px;
+  border-radius: 2px;
+  box-shadow: 1px 1px 1px #404040;
+}
+
+@media screen and (max-width: 500px) {
+  .scoreboard-wrapper {
+    flex-direction: column;
+    height: auto;
+    min-height: 15vh;
+  }
+
+  .score-card {
+    margin: 5px 0 0 0;
+    width: 100%;
+  }
+}

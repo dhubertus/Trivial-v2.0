@@ -1,0 +1,599 @@
+[
+  {
+    "id": 42,
+    "title": "sports",
+    "clues_count": 275,
+    "clues": [
+      {
+        "id": 212,
+        "answer": "the bullpen",
+        "question": "It's where relief pitchers, not matadors, warm up",
+        "value": 100,
+        "airdate": "1984-12-05T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 218,
+        "answer": "(only) a 3-year old (can run)",
+        "question": "Because of this rule, no horse has ever won the Kentucky Derby twice",
+        "value": 200,
+        "airdate": "1984-12-05T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 224,
+        "answer": "Buster Crabbe and Johnny Weissmuller",
+        "question": "These 2 former Olympic athletes became movie Tarzans",
+        "value": null,
+        "airdate": "1984-12-05T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 230,
+        "answer": "coxswain",
+        "question": "He shouts the commands in crew racing",
+        "value": 400,
+        "airdate": "1984-12-05T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 236,
+        "answer": "Abigail Adams",
+        "question": "",
+        "value": null,
+        "airdate": "1984-12-05T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 249,
+        "answer": "a let ball",
+        "question": "Tennis serve that touches net before dropping into proper court, it's replayed",
+        "value": 200,
+        "airdate": "1984-12-04T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 255,
+        "answer": "the Daily Double",
+        "question": "You win this when you pick the winners of 2 successive horse races",
+        "value": 300,
+        "airdate": "1984-12-04T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 261,
+        "answer": "self-contained underwater breathing apparatus",
+        "question": "What the letters in \"SCUBA\" stand for",
+        "value": 400,
+        "airdate": "1984-12-04T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 267,
+        "answer": "yellow (or gold)",
+        "question": "On an official archery target, it's the color of the bull's eye",
+        "value": 500,
+        "airdate": "1984-12-04T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 272,
+        "answer": "a pigskin",
+        "question": "Nickname for a football",
+        "value": 100,
+        "airdate": "1984-12-03T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 278,
+        "answer": "4",
+        "question": "A filly becomes a mare at this age",
+        "value": 200,
+        "airdate": "1984-12-03T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 284,
+        "answer": "his armpits",
+        "question": "According to rules, the strike zone in baseball extends from the batter's knees to here",
+        "value": 300,
+        "airdate": "1984-12-03T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 243,
+        "answer": "red",
+        "question": "",
+        "value": null,
+        "airdate": "1984-12-04T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": 1
+      },
+      {
+        "id": 290,
+        "answer": "the Super Bowl",
+        "question": "This bowl game changes location every year",
+        "value": 400,
+        "airdate": "1984-12-03T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 296,
+        "answer": "200",
+        "question": "The number of laps run in the Indy 500",
+        "value": 500,
+        "airdate": "1984-12-03T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 424,
+        "answer": "basketball",
+        "question": "Game where \"dribbling\" is \"offensive\"",
+        "value": 100,
+        "airdate": "1984-09-27T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 430,
+        "answer": "southpaw",
+        "question": "From early practice of pitcher facing west comes this baseball term for lefty",
+        "value": 200,
+        "airdate": "1984-09-27T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 436,
+        "answer": "the line of scrimmage",
+        "question": "Football's imaginary plane which neither team may cross until the ball is snapped",
+        "value": 300,
+        "airdate": "1984-09-27T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 442,
+        "answer": "skydiving",
+        "question": "World's fastest sport, free-fall speeds of 614 MPH have been recorded in this",
+        "value": 400,
+        "airdate": "1984-09-27T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 448,
+        "answer": "Sugar Ray Robinson",
+        "question": "'50s middleweight champ some say was pound-for-pound the best boxer ever",
+        "value": 500,
+        "airdate": "1984-09-27T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 483,
+        "answer": "fencing",
+        "question": "Sport which uses epees, foils & sabres",
+        "value": 100,
+        "airdate": "1984-09-25T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 489,
+        "answer": "the Golden Gloves",
+        "question": "Name given to annual competition among U.S. amateur boxers",
+        "value": 200,
+        "airdate": "1984-09-25T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 495,
+        "answer": "3",
+        "question": "Number of downs allowed in Canadian football to advance the ball 10 yards",
+        "value": 300,
+        "airdate": "1984-09-25T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 501,
+        "answer": "the Steelers and Eagles",
+        "question": "Because of WWII, these 2 NFL teams combined squads in '43 to become the \"Stegles\"",
+        "value": null,
+        "airdate": "1984-09-25T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 507,
+        "answer": "Bill Russell",
+        "question": "Ex-Boston Celtics' star who has refused induction into Basketball Hall of Fame",
+        "value": 500,
+        "airdate": "1984-09-25T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 546,
+        "answer": "golf",
+        "question": "What Gary Player plays professionailly",
+        "value": 100,
+        "airdate": "1984-09-21T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 552,
+        "answer": "<i>Birdman of Alcatraz</i>",
+        "question": "",
+        "value": null,
+        "airdate": "1984-09-21T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 558,
+        "answer": "<i>Being There</i>",
+        "question": "",
+        "value": null,
+        "airdate": "1984-09-21T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 570,
+        "answer": "Rocky Graziano",
+        "question": "Boxer whose life was portrayed in \"Somebody Up There Likes Me\"",
+        "value": 500,
+        "airdate": "1984-09-21T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 874,
+        "answer": "ol&eacute;",
+        "question": "At a bullfight, it's the fans' way of saying \"bravo\"",
+        "value": 100,
+        "airdate": "1986-04-10T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 880,
+        "answer": "bars, handles",
+        "question": "In gymnastics, the long horse is the same as the pommel horse, but without these",
+        "value": 200,
+        "airdate": "1986-04-10T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 886,
+        "answer": "Johnny Weissmuller",
+        "question": "It's said that in 10 years of competition, this '20s swimming star never lost a race from 50-880 yards",
+        "value": 300,
+        "airdate": "1986-04-10T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 892,
+        "answer": "1964",
+        "question": "In this year, 4 yrs. after his Olympic title, Muhammad Ali upset Sonny Liston for his 1st heavyweight crown",
+        "value": 400,
+        "airdate": "1986-04-10T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 898,
+        "answer": "tacking",
+        "question": "To maximize wind effectively in sailing you can use this zig-zag maneuver",
+        "value": 500,
+        "airdate": "1986-04-10T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 1362,
+        "answer": "Ted Turner",
+        "question": "He owns both basketball's Atlanta Hawks & baseball's Atlanta Braves",
+        "value": 100,
+        "airdate": "1985-11-26T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 1374,
+        "answer": "4",
+        "question": "",
+        "value": null,
+        "airdate": "1985-11-26T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 1368,
+        "answer": "volume",
+        "question": "",
+        "value": null,
+        "airdate": "1985-11-26T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": 1
+      },
+      {
+        "id": 1380,
+        "answer": "lowest common denominator",
+        "question": "",
+        "value": null,
+        "airdate": "1985-11-26T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 1386,
+        "answer": "yoicks",
+        "question": "",
+        "value": null,
+        "airdate": "1985-11-26T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": 1
+      },
+      {
+        "id": 2198,
+        "answer": "rugby",
+        "question": "This offshoot of soccer is named for a school in England",
+        "value": 100,
+        "airdate": "1987-04-23T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 2204,
+        "answer": "Australia",
+        "question": "The overarm \"crawl\" swimming stroke was introduced to England in 1902 from this country",
+        "value": 200,
+        "airdate": "1987-04-23T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 2210,
+        "answer": "basketball",
+        "question": "Springfield, Massachusetts is site of this sport's Hall of Fame",
+        "value": 300,
+        "airdate": "1987-04-23T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 2216,
+        "answer": "(white) stripes",
+        "question": "Marks which distinguish Wilson footballs used in college games from the ones they make for the pros",
+        "value": 400,
+        "airdate": "1987-04-23T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 2222,
+        "answer": "Floyd Patterson",
+        "question": "When he KO'd Ingemar Johansson, 6/20/60, he became 1st man to regain heavyweight championship",
+        "value": 500,
+        "airdate": "1987-04-23T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 2291,
+        "answer": "a golf hole",
+        "question": "Bob Hope says one of his favorites is the 16th at Cypress Point in Pebble Beach",
+        "value": 100,
+        "airdate": "1987-04-07T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 2297,
+        "answer": "bullfighting",
+        "question": "Spanish sport revived in China in 1986 with opening of a ring in the Zhejiang Province",
+        "value": 200,
+        "airdate": "1987-04-07T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 2303,
+        "answer": "tennis",
+        "question": "A machine called the Cyclops is now used for line calls in this sport",
+        "value": 300,
+        "airdate": "1987-04-07T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 2309,
+        "answer": "bowling",
+        "question": "Sport in which you might leave a bucket, Christmas tree or picket fence",
+        "value": 400,
+        "airdate": "1987-04-07T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 2315,
+        "answer": "Westminster Abbey",
+        "question": "Jack Broughton, inventor of the modern boxing glove, is buried in this British landmark",
+        "value": 500,
+        "airdate": "1987-04-07T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 6299,
+        "answer": "Switzerland",
+        "question": "The first bobsled races were held in this mountainous country",
+        "value": 100,
+        "airdate": "1990-03-22T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 6305,
+        "answer": "NCAA (National Collegiate Athletic Association)",
+        "question": "In 1910 the Intercollegiate Athletic Association changed its name to this",
+        "value": 200,
+        "airdate": "1990-03-22T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 6311,
+        "answer": "7 Iron",
+        "question": "A 5 iron is a mashie, a 9 iron is a niblick & this is a mashie niblick",
+        "value": 300,
+        "airdate": "1990-03-22T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 6317,
+        "answer": "Greyhound/dog racing",
+        "question": "Devised by Owen Patrick Smith, this sport was legalized in Florida in 1931",
+        "value": 400,
+        "airdate": "1990-03-22T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 6323,
+        "answer": "Football",
+        "question": "Australian Rules, American & Association describe sports that are all named this",
+        "value": 500,
+        "airdate": "1990-03-22T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 7076,
+        "answer": "Bogey",
+        "question": "Lauren Bacall could tell you it's the term used for 1 stroke over par in golf",
+        "value": 100,
+        "airdate": "1990-01-15T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 7082,
+        "answer": "100 meter dash",
+        "question": "In 1968 Olympic gold medalist Jim Hines became the 1st man to run this race in under 10 seconds",
+        "value": 200,
+        "airdate": "1990-01-15T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 7088,
+        "answer": "ice hockey",
+        "question": "In this team sport, the neutral zone is located between 2 blue lines",
+        "value": 300,
+        "airdate": "1990-01-15T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 7100,
+        "answer": "Hamburg",
+        "question": "",
+        "value": null,
+        "airdate": "1990-01-15T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      },
+      {
+        "id": 7257,
+        "answer": "Judo",
+        "question": "A Japanese teacher named Jigaro Kano developed this modern version of jujitsu in the 1880s",
+        "value": 100,
+        "airdate": "1989-12-29T12:00:00.000Z",
+        "category_id": 42,
+        "game_id": null,
+        "invalid_count": null
+      }
+    ]
+  }
+]

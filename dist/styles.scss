@@ -1,0 +1,23 @@
+@import './variables.scss';
+@import './app.scss';
+@import './navigation.scss';
+@import './controls.scss';
+@import './game.scss';
+@import './scoreboard.scss';
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  min-width: 320px;
+}
+
+#main-app {
+  min-height: 100%;
+}
+
+.app-section {
+  min-height: 100%;
+}
